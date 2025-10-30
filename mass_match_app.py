@@ -6,7 +6,7 @@ import io
 import time
 
 # --- Title ---
-st.title("🧮 MassMatchFinder_UploadNewProjects")
+st.title("🧮 MassMatchFinder            UploadNewProjects")
 st.markdown("""
 Enter a target mass and tolerance, choose or create a dataset,  
 and select which combinations to run.  
